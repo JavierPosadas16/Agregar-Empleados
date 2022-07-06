@@ -1,0 +1,3 @@
+Lucho,Dominguez,Mexico,Espanol,Aeropuerto Internacional de la Ciudad de Mexico
+Jean,Paul Gaultier,Francia,Frances,Aeropuerto Internacional de Francia
+Javier,Posadas,Monterrey,Espanol,Aeropuerto Internacional de Monterrey
