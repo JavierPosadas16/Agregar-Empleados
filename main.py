@@ -12,13 +12,13 @@ class Peticiones:
                             "surname": bdline[0],
                             "firstname": bdline[1],
                             "country": {
-                                "name": bdline[2]
+                                "name": bdline[2],
+                                "airport": {
+                                    "nombre": bdline[4]
+                                }
                             },
                             "language": {
                                 "name": bdline[3]
-                            },
-                            "airport": {
-                                "name": bdline[4]
                             }
                         }
                     r = requests.post(url, json=data, headers=headers)
